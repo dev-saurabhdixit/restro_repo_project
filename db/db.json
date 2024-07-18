@@ -1,0 +1,46 @@
+{
+  "restaurent": [
+    {
+      "name": "fried rise",
+      "email": "friedkalyanpur@gmail.com",
+      "adress": "dnow",
+      "reating": "8",
+      "id": "2"
+    },
+    {
+      "id": "6",
+      "name": "raja",
+      "emails": "dcarnv@knevn.com",
+      "adress": "dixit",
+      "reating": "4"
+    },
+    {
+      "id": "7",
+      "name": "hd",
+      "emails": "cjbv@jdf.com",
+      "adress": "panki",
+      "reating": "4"
+    },
+    {
+      "id": "9",
+      "name": "prashant king",
+      "emails": "cvjvbaeribf@ ",
+      "adress": "orai",
+      "reating": "5"
+    },
+    {
+      "id": "aa63",
+      "name": "sunil bhai",
+      "emails": "dckjof@dwjd b",
+      "adress": "kushi nagar",
+      "reating": "6"
+    },
+    {
+      "id": "d820",
+      "name": "spa",
+      "emails": "clccgeruu@kjb fi",
+      "adress": "kalyanpur",
+      "reating": "3"
+    }
+  ]
+}
